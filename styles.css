@@ -1,0 +1,40 @@
+.center {
+    display: block;
+    margin-left: 35%;
+    margin-right: 10%;
+    width: 100%;
+  }
+
+.maintitle {
+    color: white;
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-stretch: expanded;
+    font-style: italic;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.socials {
+    color: white;
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 49%;
+    float: left;
+}
+
+.mymusic {
+    color:white;
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 49%;
+    float: right;
+}
+
+.discord {
+    color:white;
+    background-color: rgb(50, 134, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 250px;
+}
